@@ -1,3 +1,4 @@
+# Hero timeline
 def intro():
     print("You wake up falling from the sky.")
     print("RIGHT: a parachute. LEFT: your best friend. CENTER: a shimmering rift.")
