@@ -10,10 +10,20 @@ Branches in this repo (with details):
     63fb551 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-09-16T16:26:56Z | main: starter story with left/right + added center path; add README skeleton
     d5006ff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:20:32Z | Auto-update branch-info.txt
 - main
-  SHA: 0c14755b8ef4e1778a2bd30dd492b3d27128ded6
-  Commits: 4
+  SHA: 958bc09cef7406a64b0b2b8bfb203e97388847ef
+  Commits: 5
   Recent commits:
+    958bc09 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:27:38Z | Auto-update branch-info.txt
     0c14755 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:27:04Z | Auto-update branch-info.txt
     63fb551 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-09-16T16:26:56Z | main: starter story with left/right + added center path; add README skeleton
     d5006ff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:20:32Z | Auto-update branch-info.txt
     2984e6e | Author: ncallahan52 <215459557+ncallahan52@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:20:22-04:00 | Initial commit
+- villain-path
+  SHA: d966959d1829ac2f819a7caf3ac55c8799aea73c
+  Commits: 8
+  Recent commits:
+    d966959 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-09-16T16:27:44Z | Summarize villain path in README.md
+    faf8182 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-09-16T16:27:44Z | villain-path: annotate file header
+    ddee901 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-09-16T16:27:44Z | villain-path: corrupting choice on right path (self vs share)
+    958bc09 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:27:38Z | Auto-update branch-info.txt
+    0c14755 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:27:04Z | Auto-update branch-info.txt
